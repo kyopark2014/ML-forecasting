@@ -1,2 +1,5 @@
-# ML-forecasting
-It describes the algorithms of forecasting.
+# ML Forecasting
+
+## Amazon Built-in Algorithms
+
+### DeepAR*
